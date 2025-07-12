@@ -1,0 +1,18 @@
+Sales Report - January 2024
+
+Overview:
+Total Sales: ₹171833
+New Clients Acquired: 19
+Customer Satisfaction: 99%
+
+Top Products:
+1. Tablet - ₹37648
+2. Smartwatch - ₹40744
+3. Laptop - ₹52872
+
+Sales by Region:
+| Region     | Sales (₹) |
+|------------|-----------|
+| Hyderabad  | ₹49826    |
+| Delhi      | ₹32277    |
+| Mumbai     | ₹52076    |

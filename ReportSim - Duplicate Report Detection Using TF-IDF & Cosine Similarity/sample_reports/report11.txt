@@ -1,0 +1,18 @@
+Sales Report - January 2024
+
+Overview:
+Total Sales: ₹154271
+New Clients Acquired: 6
+Customer Satisfaction: 98%
+
+Top Products:
+1. Tablet - ₹15093
+2. Monitor - ₹37538
+3. Phone - ₹18611
+
+Sales by Region:
+| Region     | Sales (₹) |
+|------------|-----------|
+| Mumbai     | ₹49988    |
+| Bangalore  | ₹46824    |
+| Delhi      | ₹55582    |

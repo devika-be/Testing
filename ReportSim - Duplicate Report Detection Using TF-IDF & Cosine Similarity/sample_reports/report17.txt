@@ -1,0 +1,18 @@
+Sales Report - January 2024
+
+Overview:
+Total Sales: ₹151395
+New Clients Acquired: 19
+Customer Satisfaction: 95%
+
+Top Products:
+1. Monitor - ₹49436
+2. Smartwatch - ₹20509
+3. Phone - ₹30681
+
+Sales by Region:
+| Region     | Sales (₹) |
+|------------|-----------|
+| Pune       | ₹30796    |
+| Delhi      | ₹56303    |
+| Bangalore  | ₹23841    |
